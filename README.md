@@ -16,4 +16,4 @@
 </p>
 
 📫 **Contato:**  
-[LinkedIn](www.linkedin.com/in/joaovictorkelson)
+(www.linkedin.com/in/joaovictorkelson)
