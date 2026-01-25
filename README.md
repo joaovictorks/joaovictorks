@@ -16,4 +16,5 @@
 </p>
 
 📫 **Contato:**  
-(www.linkedin.com/in/joaovictorkelson)
+Linkedin: www.linkedin.com/in/joaovictorkelson
+Email: joaovkelson1@gmail.com
