@@ -1,10 +1,10 @@
-## 👋 Olá! Sou o João Victor
+## 👋 Hi! I'm João Victor
 
-💻 Desenvolvedor focado em **HTML, CSS, JavaScript, React, Node.js e SQL**  
-🚀 Crio aplicações web modernas, responsivas e escaláveis  
-📚 Sempre aprendendo e evoluindo no ecossistema Full Stack  
+💻 Developer focused on HTML, CSS, JavaScript, React, Node.js, and SQL**  
+🚀 Building modern, responsive, and scalable web applications  
+📚 Always learning and evolving in the Full Stack ecosystem
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
-📫 **Contato:**  
+📫 **📫 Contact:**  
 Linkedin: www.linkedin.com/in/joaovictorkelson
 Email: joaovkelson1@gmail.com
