@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm João Victor
 
-💻 Developer focused on HTML, CSS, JavaScript, React, Node.js, and SQL**  
+💻 Developer focused on HTML, CSS, JavaScript, React, Node.js, and SQL  
 🚀 Building modern, responsive, and scalable web applications  
 📚 Always learning and evolving in the Full Stack ecosystem
 
