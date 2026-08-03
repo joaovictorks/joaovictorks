@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
-📫 **📫 Contact:**  
+ **📫 Contact:**  
 Linkedin: www.linkedin.com/in/joaovictorkelson
 Email: joaovkelson1@gmail.com
